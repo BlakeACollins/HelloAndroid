@@ -10,6 +10,7 @@ Udacity
 2465 Latham St
 Mountain View, CA 94043
 650-555-5555
+
 Design includes at least one image that the student feels represents the business in some way (creativity is fine, and encouraged!)
 
 Code Requirements:
